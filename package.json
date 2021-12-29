@@ -1,0 +1,13 @@
+{
+  "name": "SlowlyBot"
+  "version": "1.0.0"
+  "description": ""
+  "main": "index.js"
+  "author": "Pentinimax"
+  "license": "ISC"
+  "dependencies": {
+       "discord.js": "^12.3.1"
+  }
+  "script": {
+      "start": "node index.js"
+    }
